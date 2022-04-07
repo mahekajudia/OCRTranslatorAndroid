@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">OCRTranslator</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment 1</string>
+
+    <string-array name="languages">
+        <item>Afrikaans</item>
+        <item>Arabic</item>
+        <item>Bengali</item>
+        <item>German</item>
+        <item>English</item>
+        <item>Spanish</item>
+        <item>French</item>
+        <item>Gujarati</item>
+        <item>Hindi</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Kannada</item>
+        <item>Korean</item>
+        <item>Marathi</item>
+        <item>Malay</item>
+        <item>Russian</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Urdu</item>
+    </string-array>
+</resources>

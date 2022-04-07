@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "323554090638",
+    "project_id": "ocrtranslator-245ad",
+    "storage_bucket": "ocrtranslator-245ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323554090638:android:5a2bea33c5d1a9e3ebb3df",
+        "android_client_info": {
+          "package_name": "com.hmmrahul.ocrtranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323554090638-ldoo7tn14glugntfopttkk8hoqt5nhuk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkWjIj77mWYk9OtgnVDY2dPH1n1DRZTcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323554090638-ldoo7tn14glugntfopttkk8hoqt5nhuk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

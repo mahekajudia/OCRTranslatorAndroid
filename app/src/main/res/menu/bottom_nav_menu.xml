@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ocrTab"
+        android:icon="@drawable/ocr_scan"
+        android:title="OCR"
+        android:checked="true"
+        android:color="@color/appTeal"/>
+
+    <item
+        android:id="@+id/translatorTab"
+        android:icon="@drawable/translator"
+        android:title="Translator"
+        android:color="@color/appTeal"/>
+</menu>
